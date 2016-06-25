@@ -1,0 +1,208 @@
+#wrapper{
+  width:1040px;
+  margin-right:auto;
+  margin-left:auto;
+  background-color:#FFFFFF;
+  overflow:hidden;
+}
+
+#header{
+  background-image: url('Rplot3.png');
+  float:left;
+  width:100%;
+  background-color:#fff;
+  color:#134522;
+  font-family:Optima, arial, sans-serif;
+  height:auto;
+  text-align:left;
+  padding-left: 50px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  border-left:0px;
+  border-right:0px;
+  border-top:3px;
+  border-bottom:3px;
+  border-color:#999199;
+  border-style:solid;
+}
+
+body{
+  margin:0;
+  padding:0;
+  background-color:#F5F5F5;
+}
+
+#nav{
+  float:left;
+  font-family:'News Gothic MT', sans-serif;
+  font-size:12pt;
+  background-color:#FFFFFF;
+  width:200px;
+  margin-top:0px;
+  margin-left:0px;
+  margin-right:0px;
+  margin-bottom:-2000px;
+  padding-bottom:2000px;
+  position:relative;
+}
+
+#nav ul {
+  list-style:none;
+  display:block;
+  padding: 3px 3px 3px 3px;
+  color:#FFFFFF;
+}
+
+#nav li {
+  list-style:none;
+  text-align:center;
+  display:block;
+  padding: 0px;
+  color:#FFFFFF;
+  padding: 10px 7px 7px 10px;
+}
+
+#nav a{
+  text-decoration:none;
+  color:#999199;
+  background-color:#D8E6DE;
+}
+
+#nav a:visited, #nav a:link{
+  display:block;
+  font-size:12pt;
+  font-weight:bold;
+  font-family:'News Gothic MT', sans-serif;
+  color:#999199;
+  background-color:#D8E6DE;
+}
+
+#nav a:hover, #nav a:active{
+  display:block;
+  font-size:12pt;
+  font-weight:bold;
+  font-family:'News Gothic MT', sans-serif;
+  color:#fff;
+  background-color:#D8E6DE;
+}
+
+#nav2 {
+  float:center;
+  background-color:#999199;
+  border-bottom: 3px solid #999199;
+  font-family:'News Gothic MT', sans-serif;
+  font-size:10pt;
+  color:#FFFFFF;
+}
+
+#nav2 ul {
+  list-style:none;
+  display:inline;
+  padding: 3px 0px 3px 3px;
+  color:#FFFFFF;
+}
+
+#nav2 li {
+  display:inline;
+  padding: 0px;
+  color:#FFFFFF;
+  padding: 7px 10px 7px 10px
+}
+
+#nav2 a{
+  text-decoration:none;
+  color:#C9D9FF;
+}
+
+#nav2 li a:link, #nav2 li a:visited{
+  display:inline;
+  font-size:10pt;
+  font-weight:bold;
+  font-family:'News Gothic MT', sans-serif;
+  color:#eef1ff;
+  background-color:#999199;
+}
+
+#nav2 li a:hover, #nav2 li a:active{
+  display:inline;
+  font-size:10pt;
+  font-weight:bold;
+  font-family:'News Gothic MT', sans-serif;
+  color:#999199;
+  background-color:#eef1ff;
+}
+
+#content{
+  background-color:#FFFFFF;
+  min-height:579px;
+  float:left;
+  width:700px;
+  padding-left:50px;
+  padding-right:50px;
+  padding-top:20px;
+  padding-bottom:20px;
+  font-family:'News Gothic MT', sans-serif;
+  font-size:12pt;
+}
+
+#indented {
+  margin-left:50px;
+  font-size:12pt;
+}
+
+p{
+  font-size:12pt;
+}
+
+p.header {
+  font-size:12pt;
+  font-weight:bold;
+}
+
+p.speaker {
+  font-size:16pt;
+  font-weight:bold;
+}
+
+a{
+  text-decoration:none;
+  color:#999199;
+  font-weight:bold;
+}
+
+a:link, a:visited{
+  font-weight:bold;
+  font-family:'News Gothic MT', sans-serif;
+  color:#1F7343;
+}
+
+a:hover, li a:active{
+  font-weight:bold;
+  font-family:'News Gothic MT', sans-serif;
+  color:#00AD4A;
+}
+
+#footer{
+  background-image: url('Rplot4.png');
+  float:left;
+  width:100%;
+  background-color:#fff;
+  color:#eef1ff;
+  text-align:center;
+  position:relative;
+  font-family:'News Gothic MT', sans-serif;
+  font-size:10pt;
+  line-height:14pt;
+  font-weight:bold;
+  height:12px;
+  border-left:0px;
+  border-right:0px;
+  border-top:3px;
+  border-bottom:3px;
+  border-color:#999199;
+  border-style:solid;
+}
+
+#background {
+  url=""
+}
