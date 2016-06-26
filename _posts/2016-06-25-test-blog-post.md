@@ -25,7 +25,7 @@ Graph edges:
 Delete everything above the first edge, so your file begins with a line like "1. X1 --- X2". </li>
 <li> Open Cytoscape and click on the "Import network from file" button. </li>
 <li> After choosing your file, click on "Advanced options". Pick the following options: 
-<ol>
+<ol type="a">
 <li> Set the delimiter to SPACE </li>
 <li> Uncheck "Variable names in first row" </li>
 <li> Choose the second column to be the Source </li>
