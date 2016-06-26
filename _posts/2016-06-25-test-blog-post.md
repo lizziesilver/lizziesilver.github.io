@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Test blog post"
+date: 2016-06-25
+---
+
+Trying out blogging with Jekyll.
+
+Test list: 
+* item 1
+* item 2
+* item 3
+
