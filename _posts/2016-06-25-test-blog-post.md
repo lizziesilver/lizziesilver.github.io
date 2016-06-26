@@ -10,9 +10,8 @@ have a medium to large graph (say, more than 50 nodes), you may find it easier t
 interpret the structure in Cytoscape. Here's how:
 
 <ol>
-<li> Save your Tetrad graph as a text file
+<li> Save your Tetrad graph as a text file </li>
 <li> The text file will look something like:
-<blockquote>
 {% highlight text %}
 Graph nodes:
 X1 X2 X3 X4 ...
@@ -22,18 +21,18 @@ Graph edges:
 2. X3 --> X4
 ...
 {% endhighlight %}
-</blockquote>
 
-Delete everything above the first edge, so your file begins with a line like "1. X1 --- X2".
-<li> Open Cytoscape and click on the "Import network from file" button.
-<li> After choosing your file, click on "Advanced options". Pick the following options:
+Delete everything above the first edge, so your file begins with a line like "1. X1 --- X2". </li>
+<li> Open Cytoscape and click on the "Import network from file" button. </li>
+<li> After choosing your file, click on "Advanced options". Pick the following options: 
 <ol>
-<li> Set the delimiter to SPACE
-<li> Uncheck "Variable names in first row"
-<li> Choose the second column to be the Source
-<li> Choose the third column to be the Interaction Type
-<li> Choose the fourth column to be the Target
+<li> Set the delimiter to SPACE </li>
+<li> Uncheck "Variable names in first row" </li>
+<li> Choose the second column to be the Source </li>
+<li> Choose the third column to be the Interaction Type </li>
+<li> Choose the fourth column to be the Target </li>
 </ol>
-<li> Click ok
-<li> Set the edge theme to reflect the edge endpoints in Tetrad.
+</li>
+<li> Click ok </li>
+<li> Set the edge theme to reflect the edge endpoints in Tetrad. </li>
 </ol>
