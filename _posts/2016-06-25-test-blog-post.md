@@ -12,7 +12,8 @@ interpret the structure in Cytoscape. Here's how:
 <ol>
 <li> Save your Tetrad graph as a text file
 <li> The text file will look something like:
-
+<blockquote>
+{% highlight text %}
 Graph nodes:
 X1 X2 X3 X4 ...
 
@@ -20,7 +21,8 @@ Graph edges:
 1. X1 --- X2
 2. X3 --> X4
 ...
-
+{% endhighlight %}
+</blockquote>
 
 Delete everything above the first edge, so your file begins with a line like "1. X1 --- X2".
 <li> Open Cytoscape and click on the "Import network from file" button.
