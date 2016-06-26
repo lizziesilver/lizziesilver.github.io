@@ -1,13 +1,37 @@
 ---
 layout: post
-title: "Test blog post"
+title: "Using Cytoscape to visualize graphs from Tetrad"
 date: 2016-06-25
 ---
 
-Trying out blogging with Jekyll.
+Tetrad contains an wonderful suite of causal search algorithms, but it is not so great 
+for visualization. Cytoscape is free and a great tool for visualizing networks. If you 
+have a medium to large graph (say, more than 50 nodes), you may find it easier to 
+interpret the structure in Cytoscape. Here's how:
 
-Test list: 
-* item 1
-* item 2
-* item 3
-* item 4
+<ol>
+<li> Save your Tetrad graph as a text file
+<li> The text file will look something like:
+
+Graph nodes:
+X1 X2 X3 X4 ...
+
+Graph edges:
+1. X1 --- X2
+2. X3 --> X4
+...
+
+
+Delete everything above the first edge, so your file begins with a line like "1. X1 --- X2".
+<li> Open Cytoscape and click on the "Import network from file" button.
+<li> After choosing your file, click on "Advanced options". Pick the following options:
+<ol>
+<li> Set the delimiter to SPACE
+<li> Uncheck "Variable names in first row"
+<li> Choose the second column to be the Source
+<li> Choose the third column to be the Interaction Type
+<li> Choose the fourth column to be the Target
+</ol>
+<li> Click ok
+<li> Set the edge theme to reflect the edge endpoints in Tetrad.
+</ol>
