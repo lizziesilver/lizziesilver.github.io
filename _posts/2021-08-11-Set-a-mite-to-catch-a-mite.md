@@ -42,7 +42,7 @@ Hypoaspis mites are only half a millimeter long. They live on soil and eat fungu
 
 The mites were delivered by Toll Group. The package was supposed to ship fast because it contained living organisms, but delivery was delayed. Everyone was ordering packages online, increasing demand, and the government had imposed staff density limits on business, reducing capacity. Every mail carrier was overwhelmed. When my mites finally arrived, Toll knocked on my door obnoxiously early and I missed them. The next day, May 22, I set an alarm and caught them.
 
-The mites were shipped in a plastic jar full of coconut fibre, with air holes in the lid. I spooned the coir around the roots of my plants, watching the tiny white dots crawling over it. Soon, I thought, as I swatted a gnat out of my face. 
+The mites were shipped in a plastic jar full of coconut fibre, with air holes in the lid. I spooned the coir around the roots of my plants, watching the tiny white dots crawling over it. *Soon*, I thought, as I swatted a gnat out of my face. 
 
 ## More mites, more problems
 The fungus gnats started to decline, but my plants weren't thriving. They were gradually becoming sickly. Tiny pale spots were appearing on the mint leaves, like the green part of the leaf had died, leaving a patch of leaf skeleton.
