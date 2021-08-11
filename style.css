@@ -158,6 +158,17 @@ body{
   font-size:12pt;
 }
 
+figcaption {
+  font-size: .875em;
+  font-style: italic;
+  display: block;
+}
+
+img{
+    max-height:400px;
+    max-width:600px;
+}
+
 #indented {
   margin-left:50px;
   font-size:12pt;
